@@ -1,0 +1,16 @@
+# Warriyo – Mortals
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[01:31.79] Stranded in the open
+[01:37.38] Dried out tears of sorrow
+[01:42.70] Lacking all emotion
+[01:47.59] Staring down the barrel waiting for the
+[01:53.26] Final gates to open
+[01:58.34] To a new tomorrow
+[02:03.89] Moving with the motion
+[02:08.79] Following the light that sets me free
+[02:27.29] 
+[02:29.14] Sets me free
+```
