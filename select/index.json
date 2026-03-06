@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Mortals",
+  "base_artist": "Warriyo",
+  "createdAt": "2026-03-06T07:36:21.367800Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Departure From The Mortals",
+      "artist": "Marduk",
+      "has_synced": true,
+      "path": "select/01_Departure_From_The_Mortals_Marduk.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Mortals Watch the Day",
+      "artist": "Paradise Lost",
+      "has_synced": true,
+      "path": "select/02_Mortals_Watch_the_Day_Paradise_Lost.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Mortals",
+      "artist": "Warriyo feat. Laura Brehm",
+      "has_synced": true,
+      "path": "select/03_Mortals_Warriyo_feat._Laura_Brehm.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Mortals",
+      "artist": "Warriyo",
+      "has_synced": true,
+      "path": "select/04_Mortals_Warriyo.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Mortals",
+      "artist": "Warriyo, Laura Brehm",
+      "has_synced": true,
+      "path": "select/05_Mortals_Warriyo,_Laura_Brehm.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Mortals",
+      "artist": "Sturm und Drang",
+      "has_synced": false,
+      "path": "select/06_Mortals_Sturm_und_Drang.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Like Gods Among Mortals",
+      "artist": "Heaven Shall Burn",
+      "has_synced": true,
+      "path": "select/07_Like_Gods_Among_Mortals_Heaven_Shall_Burn.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Like Gods Among Mortals",
+      "artist": "Heaven Shall Burn",
+      "has_synced": true,
+      "path": "select/08_Like_Gods_Among_Mortals_Heaven_Shall_Burn.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Warriyo - Mortals (feat. Laura Brehm) [NCS Release]",
+      "artist": "Warriyo - Mortals (feat. Laura Brehm) [NCS Release]",
+      "has_synced": true,
+      "path": "select/09_Warriyo_-_Mortals_(feat._Laura_Brehm)_[NCS_Release]_Warriyo_-_Mortals_(feat._Laura_Brehm)_[NCS_Release].lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Mortals",
+      "artist": "The Futureheads",
+      "has_synced": false,
+      "path": "select/10_Mortals_The_Futureheads.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Lord of Mortals",
+      "artist": "Celesty",
+      "has_synced": true,
+      "path": "select/11_Lord_of_Mortals_Celesty.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Fools We Mortals Be",
+      "artist": "Etta James",
+      "has_synced": true,
+      "path": "select/12_Fools_We_Mortals_Be_Etta_James.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Departure From The Mortals",
+      "artist": "Marduk",
+      "has_synced": true,
+      "path": "select/13_Departure_From_The_Mortals_Marduk.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Feed On the Mortals",
+      "artist": "Dark Funeral",
+      "has_synced": false,
+      "path": "select/14_Feed_On_the_Mortals_Dark_Funeral.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Mortals",
+      "artist": "Venom",
+      "has_synced": false,
+      "path": "select/15_Mortals_Venom.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Mortals",
+      "artist": "Warriyo",
+      "has_synced": false,
+      "path": "select/pl_01_Mortals_Warriyo.txt"
+    }
+  ]
+}
